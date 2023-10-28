@@ -1,0 +1,28 @@
+{
+    "profiles": [
+        {
+            "id": "1",
+            "score": 900,
+            "strength": "Good",
+            "name": "Dharun"
+        },
+        {
+            "id": "2",
+            "score": 600,
+            "strength": "Average",
+            "name": "Palani Bharathi"
+        },
+        {
+            "id": "3",
+            "score": 500,
+            "strength": "Average",
+            "name": "Shalini"
+        },
+        {
+            "id": "4",
+            "score": 300,
+            "strength": "Bad",
+            "name": "Karnan"
+        }
+    ]
+}

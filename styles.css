@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+h1{
+    font-size: 20px;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    background-color:black;
+    color: white;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.Good {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.Average {
+    background-color: #FFC107;
+    color: white;
+}
+
+.Bad {
+    background-color: #ff0000;
+    color: white;
+}
+@keyframes blink {
+    0% {
+        background-color: red;
+    }
+    50% {
+        background-color: white;
+    }
+    100% {
+        background-color: red;
+    }
+}
